@@ -39,3 +39,6 @@ Inspired by the guide by [Bhavik Jikadara](https://medium.com/@bhavikjikadara), 
                                        +------v------+
                                        |   Notion    |
                                        +-------------+
+
+
+![Alt text](demo6.gif)
