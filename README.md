@@ -21,6 +21,10 @@ Inspired by the guide by [Bhavik Jikadara](https://medium.com/@bhavikjikadara), 
 
 ![Alt text](demo6.gif)
 
+<p align="center">
+  <img src="demo6.gif" alt="Demo GIF" style="max-width:100%; height:auto;">
+</p>
+
 ## 🛠️ How It Works
 
 ### Architecture
