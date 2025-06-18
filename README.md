@@ -17,6 +17,9 @@ Inspired by the guide by [Bhavik Jikadara](https://medium.com/@bhavikjikadara), 
 - 🧪 Modular Python structure for extensions or integration with CI/CD
 
 ---
+## Demo
+
+![Alt text](demo6.gif)
 
 ## 🛠️ How It Works
 
@@ -39,7 +42,5 @@ Inspired by the guide by [Bhavik Jikadara](https://medium.com/@bhavikjikadara), 
                                        +------v------+
                                        |   Notion    |
                                        +-------------+ ```
-
-![Alt text](demo6.gif)
 
 
