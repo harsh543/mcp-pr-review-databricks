@@ -24,6 +24,8 @@ Inspired by the guide by [Bhavik Jikadara](https://medium.com/@bhavikjikadara), 
   <img src="demo6.gif" alt="Demo GIF" style="max-width:100%; height:auto;">
 </p>
 
+![https://youtu.be/zzgMfgQwXwU](https://youtu.be/zzgMfgQwXwU)
+
 ## 🛠️ How It Works
 
 ### Architecture
